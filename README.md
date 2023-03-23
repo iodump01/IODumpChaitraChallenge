@@ -18,5 +18,7 @@ So, what are you waiting for? Get ready to kickstart your programming journey an
 
 The Challenge will start from tomorrow, so keep your Github accounts and repositories ready. 🙌
 
+Every Morning you would get a question on the below mentioned group and by the night the solution will be uploaded on this GitHub Repo. To know more about, How to upload the file/code to GitHub Check this video out: https://youtu.be/Cei18f3FrOI 
+
 Join the Whatsapp Group to participate:
 https://chat.whatsapp.com/IrmwQBMgA8S9D2ud9xVh26
