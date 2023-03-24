@@ -20,7 +20,7 @@ elif e > a and e > b and e > c and e > d:
 else:
     print("INVALID")
     
-d
+    
 if a < b and a < c and a < d and a < e:
     print ('the smallest number: ',a )
 elif b < a and b < c and b < d and b < e:
