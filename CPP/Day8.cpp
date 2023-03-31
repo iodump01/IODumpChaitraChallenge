@@ -1,6 +1,6 @@
 /* 
 
-Day 7 : Program to print multiplication table of a number using for loop
+Day 8: Program to print multiplication table of a number using for loop
 
 */
 
