@@ -35,8 +35,8 @@ public class Day11{
 
 Input/Output:
 
-Enter the height in cm: 
-190
-Height in feet is 6.233596
+Enter the string to count the length: 
+Hello Hi check the length of this string.
+Length of the string is 41
 
 */

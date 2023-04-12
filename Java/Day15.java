@@ -1,17 +1,18 @@
 /*
 
-Day 12:  Program to reverse the digits of a given number.
+Day 15:  Program to check whether the given number is palindrome or not.
 
 */
 
 // Program
 import java.util.Scanner;
 
-public class Day12{
+public class Day15{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number to be reversed: ");
-        int num = sc.nextInt();
+        int anum = sc.nextInt();
+        int num = anum;
         boolean isNegative = false;
 
         if(num < 0){
@@ -25,8 +26,13 @@ public class Day12{
             rnum = rnum*10 + num%10;
             num = num/10;
         }
+        rnum = rnum*(isNegative?-1:1);
 
-        System.out.println("Reversed number is "+rnum*(isNegative?-1:1));
+        if(anum == rnum){
+            System.out.println("Given number is a palindrome number.");
+        }else{
+            System.out.println("Given number is not a palindrome number.");
+        }
         
     }
 }
@@ -35,8 +41,7 @@ public class Day12{
 
 Input/Output:
 
-Enter the number to be reversed: 
-3342
-Reversed number is 2433
-
+Enter the number to be reversed:
+-223
+Given number is not a palindrome number.
 */

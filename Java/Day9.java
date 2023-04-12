@@ -26,6 +26,7 @@ public class Day9{
 
 Input/Output:
 
-
+Enter a number to print its factorial: 23
+Factorial of 23 is 862453760
 
 */
