@@ -1,6 +1,6 @@
 /*
 
-Day 17:  Program to check whether the given number is palindrome or not.
+Day 17:  Program to find whether s is a substring of str or not, using recursion.
 
 */
 
