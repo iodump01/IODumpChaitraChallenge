@@ -31,7 +31,7 @@ public class Day14{
         }
 
         System.out.println("a^b gives "+ans);
-        
+        sc.close();
     }
 }
 

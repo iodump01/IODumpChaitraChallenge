@@ -30,7 +30,7 @@ public class Day21{
         }else{
             System.out.println("Given email ("+ email + ") is not a valid email.");
         }
-
+        sc.close();
     }
 }
 

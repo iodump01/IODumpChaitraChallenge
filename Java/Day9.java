@@ -19,6 +19,7 @@ public class Day9{
         }
     
         System.out.println(String.format("Factorial of %d is %d",n,f));
+        sc.close();
     }
 }
 

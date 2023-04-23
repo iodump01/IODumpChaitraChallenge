@@ -27,7 +27,7 @@ public class Day12{
         }
 
         System.out.println("Reversed number is "+rnum*(isNegative?-1:1));
-        
+        sc.close();
     }
 }
 

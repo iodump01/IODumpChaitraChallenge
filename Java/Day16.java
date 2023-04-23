@@ -36,7 +36,7 @@ public class Day16{
         }else{
             System.out.println("Wrong k value");
         }
-        
+        sc.close();
     }
 }
 

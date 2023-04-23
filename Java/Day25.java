@@ -24,7 +24,7 @@ public class Day25{
             }
             System.out.println();
         }
-
+        sc.close();
     }
 }
 

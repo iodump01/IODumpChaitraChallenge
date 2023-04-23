@@ -31,7 +31,7 @@ public class Day22{
                 break;
             }
         }
-
+        sc.close();
     }
 }
 

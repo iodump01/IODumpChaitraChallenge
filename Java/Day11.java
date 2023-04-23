@@ -28,6 +28,7 @@ public class Day11{
             i++;
         }
         System.out.println("Length of the string is "+i);
+        sc.close();
     }
 }
 

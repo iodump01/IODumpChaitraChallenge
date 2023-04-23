@@ -13,6 +13,7 @@ public class Day10{
         System.out.println("Enter the height in cm: ");
         int h = sc.nextInt();
         System.out.println("Height in feet is "+ h*0.0328084);
+        sc.close();
     }
 }
 

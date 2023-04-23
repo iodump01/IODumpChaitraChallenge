@@ -27,7 +27,7 @@ public class Day20{
 
             System.out.println(n + "th fibonacci number is " + ans);
         }
-
+        sc.close();
     }
 }
 

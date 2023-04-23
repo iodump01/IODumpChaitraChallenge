@@ -36,7 +36,7 @@ public class Day24{
         }
 
         System.out.print("Output Array: " + newarr);
-
+        sc.close();
     }
 }
 

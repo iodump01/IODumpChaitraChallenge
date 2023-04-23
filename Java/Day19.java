@@ -30,6 +30,7 @@ public class Day19{
                 System.out.println(c + " is a special character.");
             }
         }
+        sc.close();
     }
 }
 

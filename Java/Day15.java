@@ -33,7 +33,7 @@ public class Day15{
         }else{
             System.out.println("Given number is not a palindrome number.");
         }
-        
+        sc.close();
     }
 }
 
