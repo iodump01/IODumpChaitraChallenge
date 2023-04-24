@@ -21,6 +21,7 @@ public class Day30 {
         int k = sc.nextInt();
 
         System.out.println(String.format("The given element is present at %d index.", binarySearch(arr, n, k)));
+        sc.close();
     }
 
     public static int binarySearch(int[] arr, int n, int k) {
